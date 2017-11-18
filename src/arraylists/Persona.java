@@ -75,7 +75,8 @@ public class Persona {
 							"\nEdad: " + edad +
 							"\nSexo: " + sexo +
 							"\nDni: " + dni +
-							"\nCasado: " + bCasado);
+							"\nCasado: " + bCasado +
+							"FIN DEL MÉTODO PINTAR");
 	}
 		
 
